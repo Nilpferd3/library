@@ -23,4 +23,4 @@ Daraufhin können wir ein Buch hinzufügen:
 `neuesBuch NilpferdeSindToll 16`
 Somit wurde ein Buch mit dem Namen NilpferdeSindToll und mit 16 Seiten erstellt.
 
-Nun können wir `gebaeude` eingeben, um unsere neuerstellte Bibliothek zu betrachten. Fertig! 
+Nun können wir `gebaeude` eingeben, um unsere eigene Bibliothek zu betrachten. Fertig! 
