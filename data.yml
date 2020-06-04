@@ -1,0 +1,27 @@
+stockwerke:
+- - - pages: 32
+      name: Esel
+      borrower: null
+      isBorrowed: false
+    - pages: 32
+      name: Test
+      borrower: null
+      isBorrowed: false
+    - pages: 3
+      name: Baum
+      borrower: null
+      isBorrowed: false
+    - pages: 3
+      name: Baum32
+      borrower: null
+      isBorrowed: false
+    - pages: 7
+      name: Baum133
+      borrower: null
+      isBorrowed: false
+      !!de.luisgar.buerchereisystem.objects.fields.BookFields 'AUSLEIHER': Test
+      !!de.luisgar.buerchereisystem.objects.fields.BookFields 'ISTAUSGELIEHEN': true
+  - - pages: 3
+      name: Baum32adw
+      borrower: null
+      isBorrowed: false
